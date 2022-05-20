@@ -8,7 +8,7 @@ Tässä "Palvelun käyttöehdot"-dokumentissa (jäljempänä "Sopimus", "Ehdot",
 
 Jotta voit rekisteröityä ja käyttää palveluamme, sinun on luettava tämä Sopimus ennen kuin käytät "[tilin luonti](/signup?lang=fi)"-lomakkeella olevaa "jatka"-painiketta. Jatkamalla rekisteröintiä julkituot suostumuksesi näihin ehtoihin.
 
-Jos rekisteröit asiakastilin organisaation puolesta, suostumuksesi näihin ehtoihin sitoo kyseisen organisaation näihin ehtoihin. Samalla julkituot että sinulla on kyseisessä organisaatiossa laillinen valtuus sitoa nämä ehdot mainittuun organisaatioon. Tässä tapauksessa termit "sinä", "sinun", "asiakas" viittaavat kyseiseen organisaatioon.
+Jos rekisteröit asiakastilin organisaation puolesta, suostumuksesi näihin ehtoihin sitoo kyseisen organisaation näihin ehtoihin. Samalla julkituot, että sinulla on kyseisessä organisaatiossa laillinen valtuus sitoa nämä ehdot mainittuun organisaatioon. Tässä tapauksessa termit "sinä", "sinun", "asiakas" viittaavat kyseiseen organisaatioon.
 
 Tässä dokumentissa termillä "Palvelut" tarkoitetaan kaikkia Fennosys Oy:n tarjoamia tuotteita tai palveluita. Tämä sisältää myös kaikki sinulle koeajan aikana tai veloituksetta tarjotut palvelut.
 
@@ -20,29 +20,29 @@ Jos sinulla on erillinen kirjallinen sopimus Fennosys Oy:n kanssa, nämä Palvel
 
 ### Muutokset Palveluehtoihin
 
-##### Etukäteen ilmittaminen
+##### Etukäteen ilmoittaminen
 
 Annamme sinulle ennakkoilmoituksen vähintään kolmekymmentä (30) päivää ennen näiden palveluehtojen päivitetyn version voimaantulopäivää. Ilmoitus lähetetään sähköpostitse sähköpostiosoitteeseesi (käyttäjätunnus osoitteessa c1.fi). Ehtojen päivitetty versio korvaa kaikki aiemmat versiot.
 
-##### Sinun hyväksyntä
+##### Sinun hyväksyntäsi
 
-Jatkamalla palvelun käyttöä Palveluehtojen muutospäivänä, ja muutospäivästä eteenpäin, julkituot hyväksyväsi muuttuneet Palveluehdot. Jos et hyväksy muuttuneita Palveluehtoja on sinun välittömästi lopetettava Palvelun käyttäminen.
+Jatkamalla palvelun käyttöä Palveluehtojen muutospäivänä, ja muutospäivästä eteenpäin, julkituot hyväksyväsi muuttuneet Palveluehdot. Jos et hyväksy muuttuneita Palveluehtoja, sinun on välittömästi lopetettava Palvelun käyttäminen.
 
 ##### Poikkeukset
 
-Mikäli Fennosys Oy joutuu muuttamaan näitä Palveluehtoja lainmuutoksen, viranomaisten tai teleoperaattoreiden vaatimuksen vuoksi, emme välttämättä pysty antamaan sinulle kirjallista eannakkoilmoitusta kolmekymmentä (30) vuorokautta ennen uusien Ehtojen voimaantuloa.
+Mikäli Fennosys Oy joutuu muuttamaan näitä Palveluehtoja lainmuutoksen, viranomaisten tai teleoperaattoreiden vaatimuksen vuoksi, emme välttämättä pysty antamaan sinulle kirjallista ennakkoilmoitusta kolmekymmentä (30) vuorokautta ennen uusien Ehtojen voimaantuloa.
 
 ### Sinun c1.fi tilisi
 
-Palvelujemme käyttäminen edellyttää rekisteröintiprosessin onnistunutta läpivientiä. Rekisteröinnin yhteydessä palvelu kysyy nimesi ja mobiilipuhelinnumerosi sekä uuden sähköpostiosoitteen ja salasanan joita haluat käyttää Palvelussa.
+Palvelujemme käyttäminen edellyttää rekisteröintiprosessin onnistunutta läpivientiä. Rekisteröinnin yhteydessä palvelu kysyy nimesi ja mobiilipuhelinnumerosi sekä uuden sähköpostiosoitteen ja salasanan, joita haluat käyttää Palvelussa.
 
 Rekisteröityessäsi sinun tulee antaa oikeat ja ajantasaiset tiedot itsestäsi.
 
-Rekisteröintiprosessin aikana lähetämme sinulle vahvistuskoodin tekstiviestienä. Tämän jälkeen Palvelu pyytää sinua syöttämään vastaanottamasi vahvistuskoodin. Vahvistuskoodin onnistuneen tarkistuksen jälkeen luodaan kaksi linkitettyä tiliä: 1) hallintatili ja 2) sähköpostitili.
+Rekisteröintiprosessin aikana lähetämme sinulle vahvistuskoodin tekstiviestinä. Tämän jälkeen Palvelu pyytää sinua syöttämään vastaanottamasi vahvistuskoodin. Vahvistuskoodin onnistuneen tarkistuksen jälkeen luodaan kaksi linkitettyä tiliä: 1) hallintatili ja 2) sähköpostitili.
 
 Olet itse vastuussa hallinta- ja sähköpostitilisi käytöstä. Sitoudut kaikkiin kohtuullisiin varotoimiin estääksesi luvattoman pääsyn tileillesi ja tiliesi luvattoman käytön. Sitoudut ilmoittamaan meille viipymättä kaikesta luvattomasta käytöstä.
 
-Emme ole vastuussa menetyksistä tai vahingoista jotka johtuvat tiliesi tai Palvelun luvattomasta käytöstä.
+Emme ole vastuussa menetyksistä tai vahingoista, jotka johtuvat tiliesi tai Palvelun luvattomasta käytöstä.
 
 ### Asiakasta koskevat rajoitukset ja velvollisuudet
 
@@ -57,11 +57,11 @@ Seuraavat toimet katsotaan Palveluiden väärinkäytöksi:
 
 Suostut käyttämään Palveluita vain laillisiin ja moraalisesti hyväksyttäviin tarkoituksiin.
 
-Varaamme oikeuden irtisanoa Palvelun palautusoikedetta ja ilman minkäälaista hyvitystä mikäli mikä tahansa todistettu tai epäilty rikkomus tapahtuu.
+Varaamme oikeuden irtisanoa Palvelun palautusoikeudetta ja ilman minkäänlaista hyvitystä, mikäli mikä tahansa todistettu tai epäilty rikkomus tapahtuu.
 
 ##### Vastuut
 
-Olet yksin vastuussa kaikesta Palvelun käytöstä oli se sitten luvatonta tai luvallista.
+Olet yksin vastuussa kaikesta Palvelun käytöstä, oli se sitten luvatonta tai luvallista.
 
 ### Palvelun muutoksista
 
@@ -69,7 +69,7 @@ Palvelun ominaisuudet, käyttöliittymä ja sovellukset voivat muuttua ajan myö
 
 ### Palvelumaksut ja maksuehdot
 
-Sitoudet maksamaan palvelusta valitsemasi palvelusuunnitelman ja ominaisuuksien mukaisesti.
+Sitoudut maksamaan palvelusta valitsemasi palvelusuunnitelman ja ominaisuuksien mukaisesti.
 
 ##### Luottokorttimaksuehdot
 
@@ -77,26 +77,26 @@ Maksat palvelujakson etukäteen valitsemasi palvelusuunnitelman mukaisesti. Mik�
 
 ##### Palvelun irtisanominen maksamattomien palvelumaksujen takia
 
-Palvelusopmus keskeytetään automaattisesti jos et maksa palvelusuunnitelman mukaisia maksuja ajallaan. Emme ole vastuussa mistään vahingoista, vastuista, menetyksistä tai muista tällaiseen keskeytykseen liittyvistä seurauksista.
+Palvelusopimus keskeytetään automaattisesti, jos et maksa palvelusuunnitelman mukaisia maksuja ajallaan. Emme ole vastuussa mistään vahingoista, vastuista, menetyksistä tai muista tällaiseen keskeytykseen liittyvistä seurauksista.
 
 ### Suojaus- ja korvausvastuu
 
-Suostut puolustamaan, suojaamaan ja pitämään syyttömänä Fennosys Oy:tä, sen tytäryhtiöitä, työntekijöitä, kumppaneita ja asiakkaita kaikilta vaateilta, syytteiltä, haasteilta tai oikeustoimilta jotka ovat suoria tai epäsuoria seurauksia siitä että olet käyttänyt Palveluamme.
+Suostut puolustamaan, suojaamaan ja pitämään syyttömänä Fennosys Oy:tä, sen tytäryhtiöitä, työntekijöitä, kumppaneita ja asiakkaita kaikilta vaateilta, syytteiltä, haasteilta tai oikeustoimilta, jotka ovat suoria tai epäsuoria seurauksia siitä, että olet käyttänyt Palveluamme.
 
-Suostut hyvittämään Fennosys Oy:lle, sen tytäryhtiöille, työntekijöille, kumppaneille ja asiakkaille vaateet, syytteet, haasteet tai oikeustoimet jotka ovat suoria tai epäsuoria seurauksia siitä että olet käyttänyt Palveluamme.
+Suostut hyvittämään Fennosys Oy:lle, sen tytäryhtiöille, työntekijöille, kumppaneille ja asiakkaille vaateet, syytteet, haasteet tai oikeustoimet, jotka ovat suoria tai epäsuoria seurauksia siitä, että olet käyttänyt Palveluamme.
 
 ### Aineettomat oikeudet
 
-Fennosys Oy omistaa kaikki c1.fi-sivustoon ja -palveluun liittyvät immateriaalioikeudet. Sitoudut olemaan kopioimatta, jäljentämättä, muokkaamatta, muuttamatta tai luomatta johdannaisteoksia jotka perustuvat immateriaalioikeuksiimme.
+Fennosys Oy omistaa kaikki c1.fi-sivustoon ja -palveluun liittyvät immateriaalioikeudet. Sitoudut olemaan kopioimatta, jäljentämättä, muokkaamatta, muuttamatta tai luomatta johdannaisteoksia, jotka perustuvat immateriaalioikeuksiimme.
 
 Tuotannossa oleva webmail-sovellus (https://wm.c1.fi) "Horde Groupware" on Horde LLC:n immateriaaliomaisuutta (http://www.horde.org/).
 
 ### Tietokonevirukset ja muut haittaohjelmat
 
-Ymmärrät ja hyväksyt että Fennosys ei voi taata että kaikki Palveluidemme kautta välitetyt tiedot ovat vapaita tietokoneviruksista ja muista haittaohjelmista (haittaohjelmat, troijalaiset jne.).
+Ymmärrät ja hyväksyt, että Fennosys ei voi taata, että kaikki Palveluidemme kautta välitetyt tiedot ovat vapaita tietokoneviruksista ja muista haittaohjelmista (haittaohjelmat, troijalaiset jne.).
 
-Suosittelemme että huolehdit siitä että laitteesi ja ohjelmistosi ovat hyvässä kunnossa ja ajan tasalla ja että asianmukaiset virus- ja haittaohjelmien torjuntatoimenpiteet on hoidettu ennen verkkoon siirtymistä ja Palveluidemme käyttöä.
+Suosittelemme että huolehdit siitä, että laitteesi ja ohjelmistosi ovat hyvässä kunnossa ja ajan tasalla ja, että asianmukaiset virus- ja haittaohjelmien torjuntatoimenpiteet on hoidettu ennen verkkoon siirtymistä ja Palveluidemme käyttöä.
 
-Hyväksyt että emme ole vastuussa mistään haittaohjelmien aiheuttamista menetyksistä tai vahingoista.
+Hyväksyt, että emme ole vastuussa mistään haittaohjelmien aiheuttamista menetyksistä tai vahingoista.
 
 ---
