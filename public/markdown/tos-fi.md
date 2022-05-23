@@ -95,7 +95,7 @@ Tuotannossa oleva webmail-sovellus (https://wm.c1.fi) "Horde Groupware" on Horde
 
 Ymmärrät ja hyväksyt, että Fennosys ei voi taata, että kaikki Palveluidemme kautta välitetyt tiedot ovat vapaita tietokoneviruksista ja muista haittaohjelmista (haittaohjelmat, troijalaiset jne.).
 
-Suosittelemme että huolehdit siitä, että laitteesi ja ohjelmistosi ovat hyvässä kunnossa ja ajan tasalla ja, että asianmukaiset virus- ja haittaohjelmien torjuntatoimenpiteet on hoidettu ennen verkkoon siirtymistä ja Palveluidemme käyttöä.
+Suosittelemme että huolehdit siitä, että laitteesi ja ohjelmistosi ovat hyvässä kunnossa ja ajan tasalla ja että asianmukaiset virus- ja haittaohjelmien torjuntatoimenpiteet on hoidettu ennen verkkoon siirtymistä ja Palveluidemme käyttöä.
 
 Hyväksyt, että emme ole vastuussa mistään haittaohjelmien aiheuttamista menetyksistä tai vahingoista.
 
